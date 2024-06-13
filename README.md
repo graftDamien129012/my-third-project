@@ -5,4 +5,4 @@ git add .
 git commit -m "Initial commit"
 git push -u origin main
 git remote -v
-git remote set-url origin <correct_repository_URL>
+git remote set-url origin <correct_repository_URLhttps://github.com/graftDamien129012/my-third-project/edit/main/README.md>
